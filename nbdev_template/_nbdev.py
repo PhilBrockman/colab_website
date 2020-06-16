@@ -5,6 +5,7 @@ __all__ = ["index", "modules", "custom_doc_links", "git_url"]
 index = {"hello_world": "Testing Page.ipynb"}
 
 modules = ["core.py",
+           "testing.py",
            "None.py"]
 
 doc_url = "https://fastai.github.io/nbdev_template/"
